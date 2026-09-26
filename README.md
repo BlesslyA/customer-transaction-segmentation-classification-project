@@ -1,2 +1,2 @@
-# Membangun-Proyek-Machine-Learning-dicoding
+# Membangun Proyek Machine Learning
 Membangun proyek machine learning (Project Based Learning by Dicoding)
